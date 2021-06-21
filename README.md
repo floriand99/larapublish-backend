@@ -1,6 +1,6 @@
 # LaraPublish
 
-The backend for Larapublish. An article publishing platform, in which users can publish articles.
+The backend for Larapublish. An article publishing platform, in which users can publish/edit/delete/like articles etc.
 
 
 You can view it in the following link:
